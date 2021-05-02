@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,600,700" rel="stylesheet">
+    <style>
+      body {
+          font-family: 'Roboto';
+      }
+      #flip_image {
+          display: block;
+          width: 100%;
+          max-width: 480px;
+          margin: 0 auto;
+      }
+      .slidecontainer {
+          width: 100%; /* Width of the outside container */
+          max-width: 480px;
+          margin: 0 auto;
+      }
+      /* The slider itself */
+      .slider {
+          width: calc(100%); /* Full-width */
+          height: 25px; /* Specified height */
+          -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+          transition: opacity .2s;
+          margin-top: 3em;
+      }
+      p {
+          text-align: center;
+      }
+    </style>
+    
+  </head>
+
+  <body>
+    <!-- HIER MUSS DER LINK ZUM BILD REIN -->
+    <img id="flip_image" src="bild.png">
+
+    <div class="slidecontainer">
+      <input type="range" min="0" max="180" value="0" class="slider" id="rotate_range">
+      <p>Bewege den Regler, um das Bild zu drehen!</p>
+    </div>
+
+    <script>
+      const slider = document.getElementById("rotate_range");
+      const image = document.getElementById("flip_image");
+      slider.oninput = () => {
+          image.style.transform = "rotate(" + slider.value + "deg)";
+      };
+    </script>
+  </body>
+  
+</html>
