@@ -16,6 +16,7 @@
           width: 100%; /* Width of the outside container */
           max-width: 480px;
           margin: 0 auto;
+          margin-top: 40px;
       }
       /* The slider itself */
       .slider {
@@ -28,15 +29,41 @@
       p {
           text-align: center;
       }
+
+      input[type=radio] {
+          display: inline;
+      }
+
+      input#front + label {
+          margin-right: 40px;
+      }
+      
+      label {
+          display: inline;
+      }
+
+      .radiocontainer {
+          margin: 0 auto;
+          width: 250px;
+      }
+      
     </style>
     
   </head>
 
   <body>
+    
     <!-- HIER MUSS DER LINK ZUM BILD REIN -->
-    <img id="flip_image" src="bild.png">
+    <img id="flip_image" src="vorderseite.png">
 
     <div class="slidecontainer">
+      <div class="radiocontainer">
+        <input type="radio" id="front" name="side" value="front" checked>
+        <label for="front">Vorderseite</label>
+        <input type="radio" id="back" name="side" value="back">
+        <label for="back">Rückseite</label>
+      </div>
+      
       <input type="range" min="0" max="180" value="0" class="slider" id="rotate_range">
       <div class="checkbox_container">
         <input type="checkbox" id="autorotate" name="autorotate" checked>
@@ -45,7 +72,7 @@
       <p>Bewege den Regler, um das Bild zu drehen!</p>
     </div>
 
-    <script>
+    <script>      
       const slider = document.getElementById("rotate_range");
       const image = document.getElementById("flip_image");
       image.style.transform = "rotate(0deg)";
@@ -60,6 +87,17 @@
               autoRotateImage(image, slider);
           }
       }
+
+      const frontRadio = document.getElementById("front");
+      const backRadio = document.getElementById("back");
+
+      frontRadio.onchange = () => {
+          image.src = "vorderseite.png";
+      }
+      backRadio.onchange = () => {
+          image.src = "rueckseite.png";
+      }
+      
 
       let rotateDirection = 1;
       
