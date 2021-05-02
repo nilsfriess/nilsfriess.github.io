@@ -10,6 +10,7 @@
           width: 100%;
           max-width: 480px;
           margin: 0 auto;
+          margin-top: 100px;
       }
       .slidecontainer {
           width: 100%; /* Width of the outside container */
@@ -37,15 +38,50 @@
 
     <div class="slidecontainer">
       <input type="range" min="0" max="180" value="0" class="slider" id="rotate_range">
+      <div class="checkbox_container">
+        <input type="checkbox" id="autorotate" name="autorotate" checked>
+        <label for="autorotate">Automatisch rotieren</label>
+      </div>
       <p>Bewege den Regler, um das Bild zu drehen!</p>
     </div>
 
     <script>
       const slider = document.getElementById("rotate_range");
       const image = document.getElementById("flip_image");
+      image.style.transform = "rotate(0deg)";
       slider.oninput = () => {
           image.style.transform = "rotate(" + slider.value + "deg)";
+          checkbox.checked = false;
       };
+
+      const checkbox = document.getElementById("autorotate");
+      checkbox.onchange = () => {
+          if (checkbox.checked) {
+              autoRotateImage(image, slider);
+          }
+      }
+
+      let rotateDirection = 1;
+      
+      function autoRotateImage(img, sld) {
+          if (!checkbox.checked)
+              return;
+
+          let angle = parseInt(image.style.transform.split("(")[1].split("d")[0]);
+
+          let newangle = 0;
+          if (angle > 180 || angle < 0) {
+              rotateDirection *= -1;
+          }
+          newangle = angle + rotateDirection;
+          sld.value = newangle;
+          
+          img.style.transform = "rotate(" + (newangle) + "deg)";
+
+          setTimeout(() => autoRotateImage(img, sld), 20);
+      }
+
+      autoRotateImage(image, slider);
     </script>
   </body>
   
