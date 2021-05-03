@@ -1,14 +1,18 @@
 <html>
   <head>
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,600,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
     <style>
       body {
           font-family: 'Roboto';
       }
       #flip_image {
           display: block;
-          width: 100%;
-          max-width: 480px;
+          width: auto;
+          height: auto;
+          max-width: max(480px, 60%);
+          max-height: max(480px, calc(50vw - 100px));
           margin: 0 auto;
           margin-top: 100px;
       }
