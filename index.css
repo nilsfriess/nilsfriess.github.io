@@ -13,8 +13,8 @@ main {
     justify-content: center;
 }
 
-.map {
-    max-height: 84vh;
+img {
+    max-height: 80vh;
 }
 
 #info { 
