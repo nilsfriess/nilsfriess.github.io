@@ -10,6 +10,7 @@
 main {
     display: flex;
     max-height: 84vh;
+    justify-content: center;
 }
 
 .map {
@@ -17,7 +18,7 @@ main {
 }
 
 #info { 
-    flex: 1;
+    flex: 0 0 40vw;
     display: flex;
     flex-direction: column;
 }

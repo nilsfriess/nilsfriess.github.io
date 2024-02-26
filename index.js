@@ -36,48 +36,66 @@ function showData() {
         </div>`;
         document.querySelector('.uflist').appendChild(htmlElem);
     }
+
+    setTimeout(setPoints, 100);
 }
 
-window.onload = function () {
+function setPoints() {
     const radius = 5;
+
+    document.querySelector("#dots").innerHTML = '';
 
     const image = document.querySelector('img');
     const pixelsPerLat = image.clientHeight / (northWest.lat - southEast.lat);
     const pixelsPerLong = image.clientWidth / (southEast.long - northWest.long);
 
-    console.log(pixelsPerLong);
-    console.log(pixelsPerLat);
+    for (let city of ufdata) {
+        if ((city.location.lat > northWest.lat || city.location.lat < southEast.lat) || (city.location.lng < northWest.long || city.location.lng > southEast.long))
+            continue;
 
+        // Insert circle
+        let newDot = document.createElement("div");
+        newDot.classList.add("circle");
+        newDot.style.width = `${2 * radius}px`;
+        newDot.style.height = `${2 * radius}px`;
+
+        const x = ((city.location.lng - northWest.long) * pixelsPerLong);
+        const y = (-1 * (city.location.lat - northWest.lat) * pixelsPerLat);
+
+        if (x < 0 || x > image.clientWidth)
+            continue;
+        if (y < 0 || y > image.clientHeight)
+            continue;
+
+        // Compute relative position within image
+        newDot.style.left = `${x}px`;
+        newDot.style.top = `${y}px`;
+
+        newDot.addEventListener('click', () => {
+            currSelection = city.city;
+            document.querySelector('#search').value = currSelection;
+            showData();
+        });
+
+        newDot.addEventListener('mouseover', () => {
+            document.querySelector('#selectedcity').innerHTML = city.city;
+        });
+
+        document.querySelector("#dots").appendChild(newDot);
+    }
+}
+
+window.onload = function () {
     fetch('/output.json')
         .then((response) => response.json())
         .then((data) => {
             ufdata = data;
             showData();
-
-            for (let city of data) {
-                if ((city.location.lat > northWest.lat || city.location.lat < southEast.lat) || (city.location.lng < northWest.long || city.location.lng > southEast.long))
-                     continue;
-
-                // Insert circle
-                let newDot = document.createElement("div");
-                newDot.classList.add("circle");
-                newDot.style.width = `${2 * radius}px`;
-                newDot.style.height = `${2 * radius}px`;
-
-                // Compute relative position within image
-                newDot.style.left = ((city.location.lng - northWest.long) * pixelsPerLong) + "px";
-                console.log(newDot.style.left);
-                newDot.style.top = (-1*(city.location.lat - northWest.lat) * pixelsPerLat) + "px";
-
-                newDot.addEventListener('click', () => {
-                    currSelection = city.city;
-                    document.querySelector('#search').value = currSelection;
-                    showData();
-                });
-
-                document.querySelector("#dots").appendChild(newDot);
-            }
         });
+
+    document.querySelector('img').addEventListener('mousemove', () => {
+        document.querySelector('#selectedcity').innerHTML = '';
+    });
 
     document.querySelector('#search').addEventListener("input", (e) => {
         currSelection = e.target.value;
@@ -88,6 +106,10 @@ window.onload = function () {
         currSelection = '';
         showData();
         document.querySelector('#search').value = currSelection;
+    });
+
+    window.addEventListener('resize', () => {
+        showData();
     });
 }
 
