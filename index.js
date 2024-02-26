@@ -42,8 +42,8 @@ window.onload = function () {
     const radius = 5;
 
     const image = document.querySelector('img');
-    const pixelsPerLat = image.height / (northWest.lat - southEast.lat);
-    const pixelsPerLong = image.width / (southEast.long - northWest.long);
+    const pixelsPerLat = image.clientHeight / (northWest.lat - southEast.lat);
+    const pixelsPerLong = image.clientWidth / (southEast.long - northWest.long);
 
     console.log(pixelsPerLong);
     console.log(pixelsPerLat);
