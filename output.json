@@ -170,16 +170,6 @@
     }
   },
   {
-    "city": "Sch\u00f6naich",
-    "date": "26.09.1526",
-    "name": "Michel Rebmann (Rebman)",
-    "description": "gefangengesetzt wegen Teilnahme am Bauernaufruhr, in dem er mit anderen zusammen den Besitz des Komturs zu Dettingen gepl\u00fcndert hatte, schw\u00f6rt Urfehde, zahlt dem Komtur zu Rohrdorf 6 Gulden f\u00fcr zugef\u00fcgten Schaden und seine Atzung im Gef\u00e4ngnis",
-    "location": {
-      "lat": 49.6979841,
-      "lng": 10.4068113
-    }
-  },
-  {
     "city": "Calw",
     "date": "27.01.1525",
     "name": "Marx Schnider",
@@ -255,8 +245,8 @@
     "name": "Jos Scherer",
     "description": "wegen Teilnahme am Bauernaufstand das Land verlassen hatte, schw\u00f6rt, wieder eingelassen und mit 8 Tagen Turm bei Wasser und Bot und Bezahlung der Atzung bestraft, Urfehde",
     "location": {
-      "lat": 50.04329329999999,
-      "lng": 6.4408395
+      "lat": 47.9419152,
+      "lng": 9.419378
     }
   },
   {
@@ -265,8 +255,8 @@
     "name": "Jacob Rietm\u00fcller (Riettm\u00fcller)",
     "description": "als F\u00fchrer des Bauernaufstandes zu Neuweiler das Land verlassen hatte, schw\u00f6rt, wieder eingelassen und mit 4 Wochen Turm bei Wasser und Brot bestraft, Urfehde.",
     "location": {
-      "lat": 50.04329329999999,
-      "lng": 6.4408395
+      "lat": 47.9419152,
+      "lng": 9.419378
     }
   },
   {
@@ -307,16 +297,6 @@
     "location": {
       "lat": 50.4626069,
       "lng": 11.5371988
-    }
-  },
-  {
-    "city": "Zwerenberg",
-    "date": "04.01.1526",
-    "name": "Bl\u00e4sin Purlin",
-    "description": "wegen Beteiligung am Bauernaufstand geflohen war und nach seiner R\u00fcckkehr 8 Tage gefangengehalten wurde, zahlt 10 Gulden, gelobt, keine Waffe zu tragen au\u00dfer einem abgebrochenen Brotmesser, keine Zechereien zu besuchen und schw\u00f6rt Urfehde",
-    "location": {
-      "lat": 49.7250007,
-      "lng": 8.6109755
     }
   },
   {
@@ -425,8 +405,8 @@
     "name": "Waltpurgen Zaynynngerin, des J\u00f6rg von Zell, B. zu Kirchheim, Ehefrau",
     "description": "wegen falscher Reden w\u00e4hrend des Bauernaufruhrs zu Kirchheim gef., jedoch auf F\u00fcrbitte freigelassen, verspricht, sich k\u00fcnftig wohl und gehorsam zu verhalten, und schw\u00f6rt U.",
     "location": {
-      "lat": 48.6471033,
-      "lng": 9.4519635
+      "lat": 48.8779259,
+      "lng": 10.400114
     }
   },
   {
@@ -445,8 +425,8 @@
     "name": "Christa Henlin",
     "description": "auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., weil er nach der Besetzung Kirchheim durch die aufst\u00e4ndischen Bauern von diesen das Fisch-Haus am Tecker Berg f\u00fcr eine \u00e4u\u00dferst geringe Geldsumme gekauft und von diesem Haus das Dach abgebrochen hatte, obwohl er wu\u00dfte, da\u00df das Haus nicht den Bauern, sonderm dem Erzherzog von \u00d6sterreich geh\u00f6rte, verspricht nach seiner auf F\u00fcrbitte erfolgten Freilassung, sich k\u00fcnftig gehorsam und wohl zu verhalten, sein Leben lang alle Wirtsh\u00e4user zu meiden, keine Waffe zu tragen au\u00dfer einem abgebrochenen Brotmesser, Wehr und Harnisch dem Amtmann zu \u00fcbergeben, gelobt ferner, das Fisch-Haus innerhalb eines Monats auf seine Kosten decken zu lassen und schw\u00f6rt U.",
     "location": {
-      "lat": 48.7170985,
-      "lng": 10.6176078
+      "lat": 48.6006493,
+      "lng": 9.491481499999999
     }
   },
   {
@@ -455,8 +435,8 @@
     "name": "Hans Balmar",
     "description": "zu Kirchheim gef., weil er in der Zeit der Besetzung der Stadt durch die aufr\u00fchrerischen Bauern in den herrschaftlichen Gew\u00e4ssern zu Gutenberg gefischt und die gefangenen Fische selbst gegessen hatte und weil er, als einmal zu derselben Zeit einige Priester aufs Rathaus befohlen wurden, gesagt haben soll, sie h\u00e4tten den pundt (1) im B\u00fcsen und man solle sie gottsmarterlich schinden, jedoch auf F\u00fcrbitten freigelassen, verspricht, k\u00fcnftig gehorsam zu sein, sich wohl zu verhalten, Wehr und Harnisch dem Vogt zu Kirchheim zu \u00fcbergeben, sein Leben lang keine andere Waffe zu tragen als ein abgebrochenes Brotmesser, alle Zechen zu meiden, und schw\u00f6rt U. [U 2071: Transfix zu Nr. 2070 Hans Balmar von Bissingen, zu Kirchheim gef., weil er in \u00dcbertretung der vorangehenden Verschreibung eine verbotene Waffe, einen st\u00e4hlernen Reitkolben, unter dem Rock verborgen getragen hatte, jedoch auf F\u00fcrbitten freigelassen, schw\u00f6rt U. und gelobt, den Bestimmungen beider Verschreibungen nachzukommen. Er stellt ferner 2 B\u00fcrgen, die f\u00fcr die Einhaltung beider Verschreibungen mit 200 fl haften. B\u00fcrgen: sein Vater Lenhart Balmer, B. zu Kirchheim, und sein Schw\u00e4her Ulrich Ri\u00df von Bissingen.] ",
     "location": {
-      "lat": 48.7170985,
-      "lng": 10.6176078
+      "lat": 48.6006493,
+      "lng": 9.491481499999999
     }
   },
   {
@@ -465,8 +445,8 @@
     "name": "Hans Mergklin (Mercklin)",
     "description": "wegen seiner Teilnahme am Bauernaufruhr fl\u00fcchtig aus dem Lande ausgetreten, jedoch auf F\u00fcrbitten wieder eingelassen, leistet freien Willens noch einmal den Eid der Erbhuldigung und gelobt, dem K\u00f6nig treu und gehorsam zu dienen, sich an keiner Emp\u00f6rung zu beteiligen, sonern jede Meuterei, von der er erf\u00e4hrt, sofort anzuzeigen und sich stets nur der Partei der Ober- und Ehrbarkeit anzuschlie\u00dfen. Au\u00dferdem verspricht er, alle heimlichen Zechen und Gesellschaften k\u00fcnftig zu meiden, seine Waffen dem Vogt zu \u00fcbergeben und keine andere Waffe mehr zu tragen als ein Brotmesser. Er stellt ferner seinen Vater als B\u00fcrgen, der sich verpflichtet, ihn im Fall der \u00dcbertretung dieser U. binnen Monatsfrist der Obrigkeit ins Gef\u00e4ngnis zu \u00fcberantworten oder aber, wenn dies innerhalb dieser Frist nicht gesch\u00e4he, 100 fl zu zahlen.",
     "location": {
-      "lat": 48.7170985,
-      "lng": 10.6176078
+      "lat": 48.6006493,
+      "lng": 9.491481499999999
     }
   },
   {
@@ -475,8 +455,8 @@
     "name": "Friedrich Thalhaimer",
     "description": "wegen seiner Beteiligung am Bauernaufstand zu Kirchheim u.T. gef., jedoch auf F\u00fcrbitten freigelassen, verspricht, k\u00fcnftig gehorsam zu sein, sich wohl zu verhalten, seiner Wehr und Harnisch dem Vogt zu \u00fcbergeben, sein Leben lang keine andere Waffe zu tragen als ein abgebrochenes Brotmesser, alle Zechen zu meiden, und schw\u00f6rt U.",
     "location": {
-      "lat": 48.7170985,
-      "lng": 10.6176078
+      "lat": 48.6006493,
+      "lng": 9.491481499999999
     }
   },
   {
@@ -485,8 +465,8 @@
     "name": "Bernhard M\u00e4rcklin d.J.",
     "description": "wegen Eidbr\u00fcchigkeit nach seiner R\u00fcckkehr ins F\u00fcrstentum zu Kirchheim gef., jedoch auf F\u00fcrbitten freigelassen, verspricht eidlich, dem K\u00f6nig treu und gehorsam zu dienen, sich an keiner Emp\u00f6rung zu beteiligen, sondern jede Meuterei, von der er erf\u00e4hrt, sofort anzuzeigen. Au\u00dferdem gelobt er, sich nur der Partei der Ober- und Ehrbarkeit anzuschlie\u00dfen, alle Zechen und Gesellschaften zu meiden, seine Waffen dem Vogt zu \u00fcbergebn und keine andere Waffe mehr zu tragen als ein abgebrochenes Brotmesser. Er stellt ferner 2 B\u00fcrgen, die sich verpflichten, ihn im Falle der \u00dcbertretung dieser U. und seiner Flucht binnen Monatsfrist der Obrigkeit ins Gef\u00e4ngnis zu \u00fcberantworten oder, wenn nicht gesch\u00e4he, 100 fl zu bezahlen. M\u00e4rcklin hatte eine wegen seiner Beteiligung an den Bauernunruhen geleistete Verschreibung, in der er versprochen hatte, keine Waffen mehr zu tragen, dadurch gebrochen, da\u00df er mit einer Waffe einen Einwohner zu Bissingen verwundet hatte und aus dem Lande geflohen war.",
     "location": {
-      "lat": 48.7170985,
-      "lng": 10.6176078
+      "lat": 48.6006493,
+      "lng": 9.491481499999999
     }
   },
   {
@@ -715,8 +695,8 @@
     "name": "Manng Hack",
     "description": "wegen Teilnahme am Bauernaufstand auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., jedoch auf F\u00fcrbitte freigel., verspricht, k\u00fcnftig sich wohl zu verhalten, alle Wirtsh\u00e4user zu meiden, keine Waffen mehr zu tragen au\u00dfer einem abgebrochenen Brotmesser, seine Wehr samt Harnisch dem Amtmann zu \u00fcbergeben, und schw\u00f6rt U.",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -725,8 +705,8 @@
     "name": "Jocham Kayser",
     "description": "wegen Teilnahme am Bauernaufstand auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., jedoch auf F\u00fcrbitte freigel., verspricht, k\u00fcnftig sich wohl zu verhalten, alle Wirtsh\u00e4user zu meiden, keine Waffen mehr zu tragen au\u00dfer einem abgebrochenen Brotmesser, seine Wehr samt Harnisch dem Amtmann zu \u00fcbergeben, und schw\u00f6rt U.",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -735,8 +715,8 @@
     "name": "Hans Mielich",
     "description": "wegen Teilnahme am Bauernaufstand auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., jedoch auf F\u00fcrbitte freigel., verspricht, k\u00fcnftig sich wohl zu verhalten, alle Wirtsh\u00e4user zu meiden, keine Waffen mehr zu tragen au\u00dfer einem abgebrochenen Brotmesser, seine Wehr samt Harnisch dem Amtmann zu \u00fcbergeben, und schw\u00f6rt U.",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -745,8 +725,8 @@
     "name": "Enderis Schmid",
     "description": "wegen Teilnahme am Bauernaufstand auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., jedoch auf F\u00fcrbitte freigel., verspricht, k\u00fcnftig sich wohl zu verhalten, alle Wirtsh\u00e4user zu meiden, keine Waffen mehr zu tragen au\u00dfer einem abgebrochenen Brotmesser, seine Wehr samt Harnisch dem Amtmann zu \u00fcbergeben, und schw\u00f6rt U.",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -755,8 +735,8 @@
     "name": "Jakob Syes",
     "description": "wegen Teilnahme am Bauernaufstand auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., jedoch auf F\u00fcrbitte freigel., verspricht, k\u00fcnftig sich wohl zu verhalten, alle Wirtsh\u00e4user zu meiden, keine Waffen mehr zu tragen au\u00dfer einem abgebrochenen Brotmesser, seine Wehr samt Harnisch dem Amtmann zu \u00fcbergeben, und schw\u00f6rt U",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -765,8 +745,8 @@
     "name": "J\u00f6rg Voll",
     "description": "wegen Teilnahme am Bauernaufstand auf Ersuchen der St\u00e4nde des Schw\u00e4bischen Bundes zu Kirchheim gef., jedoch auf F\u00fcrbitte freigel., verspricht, k\u00fcnftig sich wohl zu verhalten, alle Wirtsh\u00e4user zu meiden, keine Waffen mehr zu tragen au\u00dfer einem abgebrochenen Brotmesser, seine Wehr samt Harnisch dem Amtmann zu \u00fcbergeben, und schw\u00f6rt U.",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -775,8 +755,8 @@
     "name": "Hans Syes",
     "description": "zu Kirchheim u. T. gef., weil er ein Gel\u00fcbde gebrochen und der Aufforderung, sich deswegen zu Kirchheim zu stellen, nicht nachgekommen war, jedoch auf F\u00fcrbitte freigel., verspricht, sein Leben lang alle Wirtsh\u00e4user und Zechen zu meiden, sein Hab und Gut weder zu verkaufen, zu versetzen, noch mit einer Schuld zu belasten ohne Erlaubnis und Wissen der Obrigkeit und schw\u00f6rt U.",
     "location": {
-      "lat": 47.6233313,
-      "lng": 7.626529299999999
+      "lat": 48.6570116,
+      "lng": 9.4224246
     }
   },
   {
@@ -985,8 +965,8 @@
     "name": "Basti Kramer",
     "description": "gef. wegen Teilnahme am Bauernaufruhr, gegen Bezahlung seiner Atzung und Verzicht auf die Sachen, die er bei der Gefangennahme bei sich hatte, freigelassen, schw\u00f6rt U. und verspricht, nie mehr gegen das F\u00fcrstentum W\u00fcrttemberg zu handeln und an keinem Aufruhr mehr teilzunehmen.",
     "location": {
-      "lat": 48.541761,
-      "lng": 8.637711
+      "lat": 48.9402131,
+      "lng": 9.211793799999999
     }
   },
   {
@@ -1205,8 +1185,8 @@
     "name": "Melchior zu Erbstetten",
     "description": "wegen einiger Vergehen beim Bauernaufruhr zum Verlassen des Amts Marbach verurteilt, jedoch begnadigt, schw\u00f6rt U. und verspricht, fortan keine Wehr au\u00dfer einem abgebrochenen Brotmesser bei sich zu tragen und offene Zechen und Gesellschaften zu meiden.",
     "location": {
-      "lat": 48.280271,
-      "lng": 9.540078
+      "lat": 48.92833,
+      "lng": 9.3710378
     }
   },
   {
@@ -1215,8 +1195,8 @@
     "name": "Hensin Schaff",
     "description": "wegen einiger Vergehen beim Bauernaufruhr zum Verlassen des Amts Marbach verurteilt, jedoch begnadigt, schw\u00f6rt U. und verspricht, fortan keine Wehr au\u00dfer einem abgebrochenen Brotmesser bei sich zu tragen und offene Zechen und Gesellschaften zu meiden.\u00a0",
     "location": {
-      "lat": 48.280271,
-      "lng": 9.540078
+      "lat": 48.92833,
+      "lng": 9.3710378
     }
   },
   {
@@ -1225,8 +1205,8 @@
     "name": "Michel Schmid",
     "description": "wegen einiger Vergehen beim Bauernaufruhr zum Verlassen des Amts Marbach verurteilt, jedoch begnadigt, schw\u00f6rt U. und verspricht, fortan keine Wehr au\u00dfer einem abgebrochenen Brotmesser bei sich zu tragen und offene Zechen und Gesellschaften zu meiden.",
     "location": {
-      "lat": 48.280271,
-      "lng": 9.540078
+      "lat": 48.92833,
+      "lng": 9.3710378
     }
   },
   {
@@ -1235,8 +1215,8 @@
     "name": "Hans Wunnhart",
     "description": "wegen einiger Vergehen beim Bauernaufruhr zum Verlassen des Amts Marbach verurteilt, jedoch begnadigt, schw\u00f6rt U. und verspricht, fortan keine Wehr au\u00dfer einem abgebrochenen Brotmesser bei sich zu tragen und offene Zechen und Gesellschaften zu meiden.",
     "location": {
-      "lat": 48.280271,
-      "lng": 9.540078
+      "lat": 48.92833,
+      "lng": 9.3710378
     }
   },
   {
@@ -2365,8 +2345,8 @@
     "name": "Melchior Loederle",
     "description": "wegen seines aufr\u00fchrerischen Verhaltens w\u00e4hrend der j\u00fcngsten Bauernunruhen zu Nagold gef., jedoch auf die F\u00fcrbitten seiner Freunde und G\u00f6nner freigelassen, gelobt unter Eid, das F\u00fcrstentum W\u00fcrttemberg zu verlassen und es nicht mehr zu betreten, sich auch an keinem Aufruhr mehr zu beteiligen, und schw\u00f6rt U.",
     "location": {
-      "lat": 47.7971646,
-      "lng": 12.1671072
+      "lat": 48.0180926,
+      "lng": 9.102261799999999
     }
   },
   {
@@ -2375,8 +2355,8 @@
     "name": "Hans Krautthen",
     "description": "aus schuldhafter Ursache zu Neuenstadt gef., jedoch auf F\u00fcrbitte seiner Freunde und G\u00f6nner von Junker Christof von Habsperg, Amtmann zu Neuenstadt, wieder freigelassen, schw\u00f6rt U., in der er auch u.a. gelobt, rechtliche Forderungen gegen\u00fcber Personen, welche in seinen Fall verwickelt sind, nur vor den geistlichen oder weltlichen Gerichten, wo diese sesshaft sind oder wohin er durch den Landesherrn bzw. seine Amtleute hinbeschieden w\u00fcrde, zu verfolgen, sodann seines Landesherrn Nutzen und Frommen zu werben und Schaden zu wenden.",
     "location": {
-      "lat": 49.1192582,
-      "lng": 9.5206518
+      "lat": 49.2264044,
+      "lng": 9.3812822
     }
   },
   {
@@ -2385,8 +2365,8 @@
     "name": "Hans Vock",
     "description": "aus schuldhafter Ursache zu Neuenstadt gef., jedoch auf F\u00fcrbitte seiner Freunde und G\u00f6nner von Junker Christof von Habsperg, Amtmann zu Neuenstadt, wieder freigelassen, schw\u00f6rt U. und gelobt, aller Irrung und Zwietracht mit Wilhelm Lieb, Keller zu Neuenstadt, die in der Zeit des Bauernkrieges gew\u00e4hrt hatte, ganz zu entsagen.",
     "location": {
-      "lat": 49.1192582,
-      "lng": 9.5206518
+      "lat": 49.2264044,
+      "lng": 9.3812822
     }
   },
   {
@@ -2645,8 +2625,8 @@
     "name": "Hans Boel",
     "description": "wegen Teilnahme an den Bauerunruhen aus Furcht vor Strafe landfl\u00fcchtig gewesen, jedoch auf seine und seiner Frau und Kinder Bitten von Statthalter und Regenten des F\u00fcrstentums W\u00fcrttemberg wieder begnadigt unter der Bedingung, ein ziemlich gelt an die f\u00fcrstliche Kammer zu zahlen, sodann mit etlichen Tagen Turmhaft und der Bu\u00dfe belegt, k\u00fcnftig keine Waffen au\u00dfer einem abgebrochenen Brotmesser zu tragen, alle offenen Zechen und Gesellschaften zu meiden, gelobt eidlich, diesen Bedingungen nachzukommen, auch in Zukunft dergleichen Handlungen zu unterlassen und schw\u00f6rt U. ",
     "location": {
-      "lat": 49.6446826,
-      "lng": 11.2467055
+      "lat": 48.5651477,
+      "lng": 9.3030723
     }
   },
   {
@@ -2655,8 +2635,8 @@
     "name": "Clas Rorer",
     "description": "wegen Teilnahme am Bauernaufruhr landfl\u00fcchtig gewesen, jedoch auf seine und seiner Freunde Bitten wieder begnadigt, und zur Bu\u00dfe von 8 Tagen Turmhaft und einer Geldstrafe von 20 fl, in die f\u00fcrstliche Rentkammer zu zahlen, belegt, gelobt unter Eid, sein Leben lang Wehr und Harnisch nicht mehr zu tragen, offene Zechen und Gesellschaften zu meiden, sich k\u00fcnftig wohl zu verhalten und schw\u00f6rt U.",
     "location": {
-      "lat": 49.6446826,
-      "lng": 11.2467055
+      "lat": 48.5651477,
+      "lng": 9.3030723
     }
   },
   {
@@ -2665,8 +2645,8 @@
     "name": "Michael Gefroer",
     "description": "wegen Teilnahme am Bauernaufstand landfl\u00fcchtig gewesen, jedoch auf seine und seiner Freunde Bitten von Statthalter und Regenten des F\u00fcrstentums W\u00fcrttemberg begnadigt und mit der mittleren Geldbu\u00dfe belegt, Wehr und Harnisch abzulegen, offene Zechen und Gesellschaften zu meiden, acht Tage im Turm zu liegen und eine Geldstrafe von 10 fl in die f\u00fcrstliche Kammer zu entrichten, gelobt unter Eid, sich k\u00fcnftig wohl zu verhalten und die genannten Bedingungen zu befolgen und schw\u00f6rt U.",
     "location": {
-      "lat": 49.6446826,
-      "lng": 11.2467055
+      "lat": 48.5651477,
+      "lng": 9.3030723
     }
   },
   {
@@ -2675,8 +2655,8 @@
     "name": "Hans Steffelin d.J.",
     "description": "wegen Teilnahme am Bauernaufstand aus Furcht vor Strafe landfl\u00fcchtig gewesen, jedoch auf Bitten seines Vaters und Bruders begnadigt und mit der Strafe belegt, 14 Tage im Turm zu liegen und eine Geldstrafe von 20 fl in die f\u00fcrstliche Kammer zu entrichten, auch Wehr und Harnisch abzulegen, offene Zechen und Gesellschaften zu meiden, und in das Amt N\u00fcrtingen gebannt zu werden, gelobt, nachdem er einen Teil dieser Bedingungen erf\u00fcllt hat, sich k\u00fcnftig wohl zu verhalten und die restlichen Begnadigungsartikel zu erf\u00fcllen und schw\u00f6rt U.",
     "location": {
-      "lat": 49.6446826,
-      "lng": 11.2467055
+      "lat": 48.5651477,
+      "lng": 9.3030723
     }
   },
   {
@@ -2895,8 +2875,8 @@
     "name": "Jakob Ha\u00df",
     "description": "wegen Beteiligung am Aufruhr der Bauern der Vogtei Rosenfeld aufgefordert, sich dem siegreichen Landesherrn auf Gnade und Ungnade zu \u00fcbergeben, statt dessen au\u00dfer Landes nach Rottweil entwichen und deshalb harter Strafe verfallen, jedoch auf die F\u00fcrbitte Rudolfs von Ehingen, Ritters und Regenten, dessen Sohnes J\u00f6rg und vom Vogt, B\u00fcrgermeister und Gericht der Stadt Rosenfeld wieder ins Land gelassen unter den Bedingungen, seine Wehr und Harnisch dem Amtmann zu Rosenfeld abzuliefern und inner- und au\u00dferhalb des Landes au\u00dfer einem abgebrochenen Brotmesser keine Wehr mehr zu tragen, dazu offene Zechen und Gesellschaften zu meiden, gelobt unter Eid, diese Bedingungen einzuhalten und schw\u00f6rt U.",
     "location": {
-      "lat": 48.2402798,
-      "lng": 8.7238852
+      "lat": 48.5216364,
+      "lng": 9.0576448
     }
   },
   {
@@ -2955,8 +2935,8 @@
     "name": "Jacob Bieler d.J., Hans Hindenlang, Caspar Grienenwald, Jone Schnider",
     "description": "nach ihrer Beteiligung am Aufruhr der Bauern vom Schw\u00e4bischen Bund auf Gnade und Ungnade angenommen, geloben unter Eid, Wehr, Waffen und Harnisch der Obrigkeit abzuliefern, auch ihr Leben lang keine mehr au\u00dfer einem abgebrochenen Brotmesser zu besitzen oder zu gebrauchen, offene Zechen und Gesellschaften zu meiden, und sich allen Aufruhrs zu enthalten.",
     "location": {
-      "lat": 48.55154030000001,
-      "lng": 13.1135953
+      "lat": 48.8016461,
+      "lng": 9.3883618
     }
   },
   {
@@ -2965,8 +2945,8 @@
     "name": "Michel, Conrat und Wilhalm Scheffer",
     "description": "nach ihrer Beteiligung am Aufruhr der Bauern vom Schw\u00e4bischen Bund auf Gnade und Ungnade angenommen, geloben unter Eid, Wehr, Waffen und Harnisch der Obrigkeit abzuliefern, auch ihr Leben lang keine mehr au\u00dfer einem abgebrochenen Brotmesser zu besitzen oder zu gebrauchen, offene Zechen und Gesellschaften zu meiden, und sich allen Aufruhrs zu enthalten.",
     "location": {
-      "lat": 48.55154030000001,
-      "lng": 13.1135953
+      "lat": 48.8016461,
+      "lng": 9.3883618
     }
   },
   {
@@ -3097,16 +3077,6 @@
     "location": {
       "lat": 48.88474979999999,
       "lng": 9.5303744
-    }
-  },
-  {
-    "city": "Michelau",
-    "date": "24.04.1532",
-    "name": "Thomas Schal",
-    "description": "wegen Beteiligung an den Bauernunruhen zu Schorndorf gef., jedoch auf F\u00fcrbitte ehrbarer Leute auf k\u00fcnftiges Wohlverhalten begnadigt und wieder freigelassen, schw\u00f6rt U. und verspricht unter Eid, seine Atzung und Gef\u00e4ngniskosten selbst zu bezahlen und sich wegen seiner begangenen strafbaren Handlungen auf Mahnung wieder im Gef\u00e4ngnis zu Schorndorf zu stellen und dort nach der Rechtfertigung die ihm geb\u00fchrende Strafe abzuwarten.",
-    "location": {
-      "lat": 50.1657828,
-      "lng": 11.1096466
     }
   },
   {
@@ -3455,8 +3425,8 @@
     "name": "Heinrich Bertsch",
     "description": "zu Stuttgart gef., weil er im Bad zu Untert\u00fcrkheim wider seinen geschworenen Eid sagte, er wolle, da\u00df Hz. Ulrich an der Geislinger Steige liege und mit ganzer Macht daherziehe, jedoch auf seine Bitte und die F\u00fcrbitte seiner Freundschaft freigel., schw\u00f6rt U. und verspricht eidlich, k\u00fcnftig solch ungeb\u00fchrliche Reden sein zu lassen.",
     "location": {
-      "lat": 53.10350760000001,
-      "lng": 9.3970716
+      "lat": 48.78551419999999,
+      "lng": 9.2738009
     }
   },
   {
@@ -3467,26 +3437,6 @@
     "location": {
       "lat": 48.7856737,
       "lng": 9.256158700000002
-    }
-  },
-  {
-    "city": "Bomberg",
-    "date": "24.05.1520",
-    "name": "Michael Franck",
-    "description": "widerruft bei dem am selben Tag geschworenen U.-Eid die gegen Burkhard F\u00fcrderer, Vogt zu Stuttgart, gemachten unwahren Behauptungen.",
-    "location": {
-      "lat": 49.8240063,
-      "lng": 10.8412281
-    }
-  },
-  {
-    "city": "Bomberg",
-    "date": "24.05.1520",
-    "name": "Michael Franck",
-    "description": "wegen Parteinahme f\u00fcr Hz. Ulrich entgegen seinem geschworenen Eid zu Stuttgart gef., jedoch auf seine Bitte freigel., schw\u00f6rt U. und verspricht eidlich, unverz\u00fcglich aus dem Land W\u00fcrttemberg zu ziehen, sich in einer Entfernung von 10 Meilen aufzuhalten und nur mit kgl. Erlaubnis hierher zur\u00fcckzukehren . M. Franck hatte unl\u00e4ngst zu Stuttgart gesagt, Hz. Ulrich von W\u00fcrttemberg sei ein frommer Herr, und wer ihm \u00dcbles nachsage, der solle St. Valentins Fallsucht in einer Nacht 24 Mal bekommen, und ebenfalls solle der Verr\u00e4ter Burkhard F\u00fcrderer und die anderen R\u00e4te von dieser Krankheit befallen werden. Au\u00dferdem hatte sich der A. ge\u00e4u\u00dfert, er sei in den letzten 3 Wochen bei Hz. Ulrich gewesen, der ihm Zehrung f\u00fcr seine Heimkehr gegeben habe. Als ihn darauf etliche Leute mit der Bemerkung zum Schweigen aufforderten, sonst schneide man ihm die Zunge ab, \u00fcberging er diese Mahnung und sagte weiterhin, er sei ein guter W\u00fcrttemberger; er setze sein Leben f\u00fcr den Hz. ein und h\u00e4tte er gen\u00fcgend Geld, w\u00fcrde er es ihm geben, damit er wieder in sein Land k\u00e4me, und dazu w\u00fcrde er f\u00fcr den Hz. viele gro\u00dfe B\u00fcchsen gie\u00dfen lassen. Dann rief er mit erhobenem Arm: Hie W\u00fcrttemberg Grund und Boden. ",
-    "location": {
-      "lat": 49.8240063,
-      "lng": 10.8412281
     }
   },
   {
@@ -3545,8 +3495,8 @@
     "name": "Hans Zanncker",
     "description": "wegen Parteinahme f\u00fcr Hz. Ulrich zu Stuttgart gef., jedoch auf F\u00fcrbitte seiner Freunde freigel., schw\u00f6rt U. und verspricht eidlich, weder \u00f6ffentliche noch heimliche Zechen zu besuchen, keine Wehr mehr zu tragen, das F\u00fcrstentum W\u00fcrttemberg nicht zu verlassen, sich von den als Parteig\u00e4nger Hz. Ulrichs verd\u00e4chtigen Personen fernzuhalten und bei \u00dcbertretung dieser U. der Obrigkeit 100 fl zu bezahlen. Er setzt zur Sicherheit ein 1. sein Haus mit Hofraite zu Kirchheim zwischen den Buschen und Caspar Buschlein gelegen; 2. eine Scheuer zwischen Bm. Hechtlin und dem H\u00e4uslein der Kirchherren; 3. 1/2 M. Weinberg in der Wangenhalde zwischen Caspar Duschlin und dem Balmer. H. Zanncker hatte, entgegen seinem geschworenen Eid, zu Kirchheim aufr\u00fchrerische Reden gef\u00fchrt und mit J\u00f6rg von Ow und anderen Parteig\u00e4ngern Hz. Ulrichs verkehrt. ",
     "location": {
-      "lat": 48.6471033,
-      "lng": 9.4519635
+      "lat": 48.8779259,
+      "lng": 10.400114
     }
   },
   {
@@ -3665,8 +3615,8 @@
     "name": "Laurenz Hutmacher",
     "description": "wegen feindseligen Verhaltens gegen den Schw\u00e4bischen Bund w\u00e4hrend der Bauernaufst\u00e4nde - wie er es in seiner U. bekannt hatte - zu Stuttgart gef., jedoch auf F\u00fcrbitte seiner Freunde des strengen Rechts unter der Bedingung enthoben, das F\u00fcrstentum W\u00fcrttemberg unverz\u00fcglich zu verlassen und nie mehr zur\u00fcckzukehren, verspricht eidlich, dies zu befolgen und sich in keiner in W\u00fcrttemberg liegenden Reichsstadt aufzuhalten, schw\u00f6rt U.",
     "location": {
-      "lat": 48.7303646,
-      "lng": 9.107941799999999
+      "lat": 48.9334357,
+      "lng": 8.961208000000001
     }
   },
   {
@@ -3830,16 +3780,6 @@
     }
   },
   {
-    "city": "Winzeln",
-    "date": "17.01.1526",
-    "name": "Hans Ungmach, Martin Ungmach (Vater und Sohn) (vgl. U 5303)",
-    "description": "bekennen sich gegen\u00fcber ihren Herren Gangolf und Walter von Hohengeroldseck und Sulz auf Grund eines in vertraglicher Form ausgestellten Schuldbekenntnisses vom gleichen Tag f\u00fcr sich und ihre Erben zu einer zu gen. Zielen abzutragenden - Schuld von 90 fl Sulzer W\u00e4hrung und verschreiben ihr Hab und Gut, insbesonders den Geringshof zu Winzeln, zum Unterpfand.",
-    "location": {
-      "lat": 49.1873271,
-      "lng": 7.568480399999999
-    }
-  },
-  {
     "city": "Busenweiler",
     "date": "21.01.1526",
     "name": "Jakob Appenzeller",
@@ -3910,16 +3850,6 @@
     }
   },
   {
-    "city": "Bettenhausen",
-    "date": "21.01.1526",
-    "name": "Michel Muthschler",
-    "description": "welcher sich gegen Pflicht und Eid seiner Leibeigenschaft am Bauernaufstand und am \u00dcberfall auf verschiedene Schl\u00f6sser und Flecken und an deren Einnahme beteiligt hatte, jedoch von den Herren Gangolf und Walter von Hohengeroldseck und Sulz auf seine Bitte wieder in Gnaden angenommen wurde, schw\u00f6rt U. und gelobt, seinen Herren sein Leben lang gehorsam zu sein, schlechte Gesellschaft zu meiden und sich an keinem Aufruhr zu beteiligen. ",
-    "location": {
-      "lat": 50.5563318,
-      "lng": 10.2857036
-    }
-  },
-  {
     "city": "Dornhan",
     "date": "21.01.1526",
     "name": "Heinz Nusser",
@@ -3937,26 +3867,6 @@
     "location": {
       "lat": 48.349289,
       "lng": 8.508868099999999
-    }
-  },
-  {
-    "city": "Lombach",
-    "date": "21.01.1526",
-    "name": "Hans Ruman",
-    "description": "welcher sich gegen Pflicht und Eid seiner Leibeigenschaft am Bauernaufstand beteiligt hatte, jedoch von den Herren Gangolf und Walter von Hohengeroldseck und Sulz auf seine Bitte wieder in Gnaden angenommen wurde, schw\u00f6rt U. und gelobt, seinen Herren sein Leben lang gehorsam zu sein, schlechte Gesellschaft zu meiden und sich an keinem Aufruhr zu beteiligen. ",
-    "location": {
-      "lat": 48.4310779,
-      "lng": 8.4756917
-    }
-  },
-  {
-    "city": "Winzeln",
-    "date": "21.01.1526",
-    "name": "Wendel Schoploch",
-    "description": "wie U 5320",
-    "location": {
-      "lat": 49.1873271,
-      "lng": 7.568480399999999
     }
   },
   {
@@ -4010,16 +3920,6 @@
     }
   },
   {
-    "city": "Unteriflingen",
-    "date": "21.01.1526",
-    "name": "Paulin Spat",
-    "description": "welcher sich gegen Pflicht und Eid seiner Leibeigenschaft am Bauernaufstand besteiligt und einen S\u00f6ldner gestellt hatte, jedoch von den Herren Gangolf und Walter von Hohengeroldseck und Sulz auf sein Bitten wieder in Gnaden angenommen wurde, schw\u00f6rt U. und gelobt, seinen Herren sein Leben lang gehorsam zu sein, schlechte Gesellschaft zu meiden und sich an keinem Aufruhr zu beteiligen. ",
-    "location": {
-      "lat": 48.4199965,
-      "lng": 8.5457112
-    }
-  },
-  {
     "city": "Leinstetten",
     "date": "21.01.1526",
     "name": "Hans Ungmach",
@@ -4037,16 +3937,6 @@
     "location": {
       "lat": 48.7949104,
       "lng": 8.4964883
-    }
-  },
-  {
-    "city": "Seedorf",
-    "date": "21.01.1526",
-    "name": "Berthold Wolff",
-    "description": "welcher sich gegen Pflicht und Eid seiner Leibeigenschaft am Bauernaufstand beteiligt hatte, jedoch von den Herren Gangolf und Walter von Hohengeroldseck und Sulz auf sein Bitten wieder in Gnaden angenommen wurde, schw\u00f6rt U. und gelobt, seinen Herren sein Leben lang gehorsam zu sein, schlechte Gesellschaft zu meiden und sich an keinem Aufruhr zu beteiligen. ",
-    "location": {
-      "lat": 53.3500585,
-      "lng": 9.230055799999999
     }
   },
   {
@@ -4165,8 +4055,8 @@
     "name": "Hans und Lienhard Ho\u00df, Br\u00fcder",
     "description": "zu T\u00fcbingen wegen ihrer Weigerung gef., dem Pfarrer von M\u00e4hringen den Kleinen Zehnten zu entrichten, jedoch auf ihre und die Bitten anderer von Hans Erhard von Ow, Obervogt, und Hans Breuning, Untervogt zu T\u00fcbingen, begnadigt und wieder freigel., geloben eidlich, diesen Zehnten ohne Widerrede ihr Leben lang jedem Pfarrer zu M\u00e4hringen zu geben, es sei denn, es w\u00fcrde durch die Obrigkeit etwas anderes verf\u00fcgt, und schw\u00f6ren U., in die sie den Pfarrer einschlie\u00dfen.",
     "location": {
-      "lat": 48.4860753,
-      "lng": 9.110132199999999
+      "lat": 48.4364249,
+      "lng": 9.937384
     }
   },
   {
@@ -4235,8 +4125,8 @@
     "name": "Martin H\u00f6ld",
     "description": "in Tuttlingen gef., weil er sich gegen seinen rechtm\u00e4\u00dfigen Landesherrn emp\u00f6rt, sich dessen Feinden angeschlossen und ihnen Hilfe geleistet hatte, jedoch auf F\u00fcrbitten seiner Herren und n\u00e4chsten Freunde begnadigt und entlassen, stellt er Hans Teufel, B. zu Tuttlingen, f\u00fcr 100 fl als B\u00fcrgen, gelobt eidlich, bei Vorladung zur Verhandlung in Stuttgart zu erscheinen sowie seine Atzung zu bezahlen, und schw\u00f6rt U.",
     "location": {
-      "lat": 48.7170985,
-      "lng": 10.6176078
+      "lat": 48.6006493,
+      "lng": 9.491481499999999
     }
   },
   {
@@ -4275,8 +4165,8 @@
     "name": "J\u00f6rg H\u00e4bin",
     "description": "wegen Beteiligung am Bauernkrieg gef., jedoch auf F\u00fcrbitten seiner Freundschaft freigel., schw\u00f6rt U. und gelobt unter Eid, sein Leben lang au\u00dfer einem abgebrochenen Brotmesser keine Wehr mehr zu tragen und keine Zeche mehr zu besuchen. J. H\u00e4bin hatte w\u00e4hrend der Bauernunruhen aus eigener Machtvollkommenheit die Schulthei\u00dfen von Bernloch und Kleinengstingen ihrer \u00c4mter enthoben, bei letzterem auch die Bauern angestiftet, ihn durch die Spie\u00dfe zu jagen, und den Jakob Feringer aus Bernloch gen\u00f6tigt, das dortige Schulthei\u00dfenamt zu versehen. Er hatte ferner die Bauern der beiden Engstingen ermahnt, zum Bauernhaufen zu ziehen, und sich auch sonst eidbr\u00fcchig und pflichtvergessen verhalten.",
     "location": {
-      "lat": 48.3871631,
-      "lng": 9.2905038
+      "lat": 48.3865767,
+      "lng": 9.295657799999999
     }
   },
   {
@@ -4285,8 +4175,8 @@
     "name": "Ludwig J\u00e4ger, J\u00f6rg Goch d.J.",
     "description": "wegen ungehorsamen, aufr\u00fchrerischen Verhaltens gegen die Obrigkeit einige Zeit zu Urach gef., jedoch wieder freigel., schw\u00f6ren U.",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4295,8 +4185,8 @@
     "name": "Heinrich Eigenmann",
     "description": "schwerer Strafe verfallen, weil er mit anderen w\u00e4hrend der Bauernunruhen wider obrigkeitliche Verbote in der Lauchert gefischt hatte, jedoch auf F\u00fcrbitte dessen, der die Wasser innehat, mit einer milderen Strafe belegt, schw\u00f6rt U. und gelobt unter Eid, ohne obrigkeitliche Erlaubnis sein Leben lang nicht mehr zu fischen.",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4305,8 +4195,8 @@
     "name": "Hans Brenz",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4315,8 +4205,8 @@
     "name": "Michael Epp",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4325,8 +4215,8 @@
     "name": "Erhard Koch",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4335,8 +4225,8 @@
     "name": "Veit Koch",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4345,8 +4235,8 @@
     "name": "Kla\u00df L\u00f6ffel",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4355,8 +4245,8 @@
     "name": "Alexius Mayer",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4365,8 +4255,8 @@
     "name": "Hans Mayer",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4375,8 +4265,8 @@
     "name": "Gori Schmid",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4385,8 +4275,8 @@
     "name": "Veit Schneider",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4395,8 +4285,8 @@
     "name": "Klas Straubinger",
     "description": "wie U 5848",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -4415,8 +4305,8 @@
     "name": "Hans Stoll",
     "description": "in Urach gef., weil er den Schulthei\u00df zu Glems mit Worten bedroht und verd\u00e4chtigt hatte, im Herbst falsch gemessen zu haben, jedoch auf F\u00fcrbitte seiner Freunde freigel., schw\u00f6rt U. und gelobt, sich k\u00fcnftig gehorsam zu verhalten.",
     "location": {
-      "lat": 48.5076842,
-      "lng": 9.3093807
+      "lat": 48.8467584153832,
+      "lng": 9.038493134733782
     }
   },
   {
@@ -4425,8 +4315,8 @@
     "name": "Ulrich Biening",
     "description": "eine Zeitlang zu Urach gef., weil er ein Gebot des Schulthei\u00dfen von Glems \u00fcbergangen und ihn mit Worten bedroht hatte, jedoch auf F\u00fcrbitten seiner Freundschaft freigel., schw\u00f6rt U.",
     "location": {
-      "lat": 48.5076842,
-      "lng": 9.3093807
+      "lat": 48.8467584153832,
+      "lng": 9.038493134733782
     }
   },
   {
@@ -4465,8 +4355,8 @@
     "name": "Agathe, Ehefrau des Henslin Bosch",
     "description": "wegen ungeb\u00fchrlicher Reden gegen die Obrigkeit w\u00e4hrend der Bauernunruhen einige Tage zu Urach gef., jedoch auf F\u00fcrbitten freigel., schw\u00f6rt U.",
     "location": {
-      "lat": 48.2900078,
-      "lng": 9.2236982
+      "lat": 48.3100621,
+      "lng": 9.2432403
     }
   },
   {
@@ -4475,8 +4365,8 @@
     "name": "B\u00fctsch Ludlin",
     "description": "einige Zeit im Gef\u00e4ngnis der Bundesst\u00e4nde zu Urach gef., weil er beim Einfall Herzog Ulrichs von W\u00fcrttemberg um Fastnacht (28. Febr.), als Erzherzog Ferdinand von \u00d6sterreich gegen ihn nach T\u00fcbingen ins Feld zog, unter einem Haufen der Landschaft gesagt hatte, wie man es wohl anstelle, den Dietrich Sp\u00e4t dem Herzog auszuliefern, und auch sonst w\u00e4hrend der Bauernunruhen feindliche Reden gegen die \u00f6sterreichische Regierung gef\u00fchrt hatte, deshalb schwerer Strafe verfallen, jedoch auf F\u00fcrbitten seiner Freunde begnadigt und freigel., schw\u00f6rt U., in die er Junker D. Sp\u00e4t und seine Verwandten besonders aufnimmt, und gelobt eidlich, sein Leben lang ohne obrigkeitliche Erlaubnis keinen Harnisch und keine Wehr mehr zu tragen und offene Zechen zu meiden.",
     "location": {
-      "lat": 48.2900078,
-      "lng": 9.2236982
+      "lat": 48.3100621,
+      "lng": 9.2432403
     }
   },
   {
@@ -4575,8 +4465,8 @@
     "name": "Jakob Toesch",
     "description": "wegen Teilnahme am Bauernaufstand eine Zeitlang zu Urach gef., jedoch auf F\u00fcrbitten seiner Freunde begnadigt und mit der von ihm selbst erw\u00e4hlten Strafe, von einem Tor der Stadt Urach zum anderen mit Ruten geschlagen zu werden, sein Leben lang im Amt Urach zu bleiben, au\u00dfer einem abgebrochenen Brotmesser keine Wehr und keinen Harnisch mehr zu tragen sowie offene Zechen und Wirtsh\u00e4user zu meiden, wieder freigel., schw\u00f6rt nach Verb\u00fc\u00dfung der Leibesstrafe U. und gelobt eidlich, die gen. Artikel zu halten. J. Toesch war, als der Bauernhaufe nach Pfullingen kam, diesem zugelaufen, wollte mit ihm das Uracher Amt besetzen, die Stadt Urach belagern und alle, die sich nicht sogleich ergeben und dem Evangelium schw\u00f6ren, totschlagen. Daraufhin war er mit den Bauern nach Gammertingen geflohen und \u00fcber Rottweil und Tuttlingen zum Hohentwiel gezogen, um Herzog Ulrich von W\u00fcrttemberg seine Dienste zur Wiedereroberung des Landes anzubieten. Daran war er jedoch von den dort gelegenen Bauern abgehalten worden. 2 Beilagen: 1. Schuldbekenntnis des J. Toesch, o.D., Pap. 2. Befehl der Kanzlei zu Stuttgart an den Uracher Untervogt Hans Wern betr. die Straffestsetzung und den Strafvollzug an J. Toesch vom 11. Apr. 1526, Ausf., Pap., 1 Pap. S. ",
     "location": {
-      "lat": 48.5181458,
-      "lng": 9.2261221
+      "lat": 48.7074558,
+      "lng": 9.0044053
     }
   },
   {
@@ -4585,8 +4475,8 @@
     "name": "Ludwig Lang",
     "description": "zu Urach gef., weil er w\u00e4hrend des Bauernaufstands in einem Wirtshaus zu Blaubeuren beim Wein ein selbstverfa\u00dftes Lied auf Herzog Ulrich von W\u00fcrttemberg gesungen, auch seinen dort anwesenden Oberamtmann, den Schulthei\u00df von Laichingen, gereizt und sich \u00fcber die ihm auferlegte Strafe lustig gemacht hatte, jedoch auf F\u00fcrbitte seiner Freundschaft und nach Bezahlung einer Geldstrafe von 10 fl begnadigt und freigel., schw\u00f6rt U.",
     "location": {
-      "lat": 48.5568355,
-      "lng": 10.2850447
+      "lat": 49.115702,
+      "lng": 9.194740999999999
     }
   },
   {
@@ -4675,8 +4565,8 @@
     "name": "Bernhard Feringer",
     "description": "mit 2 fl bestraft, weil er w\u00e4hrend der Bauernunruhen im Uracher Forst einen Rehbock geschossen hatte, schw\u00f6rt U. und gelobt eidlich, zeitlebens kein Waidwerk mehr zu treiben und ohne obrigkeitliche Erlaubnis keine B\u00fcchse mehr zu tragen.",
     "location": {
-      "lat": 48.355645,
-      "lng": 9.334171999999999
+      "lat": 48.3305774,
+      "lng": 9.3325437
     }
   },
   {
@@ -4707,16 +4597,6 @@
     "location": {
       "lat": 48.374529,
       "lng": 9.425134000000002
-    }
-  },
-  {
-    "city": "Oberhausen",
-    "date": "18.09.1525",
-    "name": "Ludwig Haid",
-    "description": "mit einer Geldstrafe von 5 fl belegt, wovon er 2 fl auf Weihnachten (24. Dez.) und 3 fl auf Fastnacht n\u00e4chsten Jahres (13. Febr. 1526) an den Forstmeister zu Urach bezahlen soll, weil er w\u00e4hrend der Bauernunruhen dem Wild nachgegangen war und am Wildbretschie\u00dfen teilgenommen hatte, schw\u00f6rt U. und gelobt eidlich, zeitlebens kein Waidwerk mehr zu treiben und ohne Erlaubnis der Obrigkeit keine B\u00fcchse mehr zu tragen.",
-    "location": {
-      "lat": 51.4878429,
-      "lng": 6.863308
     }
   },
   {
@@ -4770,16 +4650,6 @@
     }
   },
   {
-    "city": "Oberhausen",
-    "date": "18.09.1525",
-    "name": "J\u00f6rg Melchinger",
-    "description": "mit einer Strafe von 6 fl belegt - die er halb auf Weihnachten (24. Dez.), halb auf Fastnacht n\u00e4chsten Jahres (13. Febr. 1526) - an den Forstmeister zu Urach bezahlen soll, weil er zur Zeit der Bauernunruhen dem Wildbret nachgegangen war und einen Schu\u00df abgegeben hatte, schw\u00f6rt U. und gelobt eidlich, sein Leben lang keinerlei Waidwerk mehr zu treiben und ohne obrigkeitliche Erlaubnis keine B\u00fcchse mehr zu tragen.",
-    "location": {
-      "lat": 51.4878429,
-      "lng": 6.863308
-    }
-  },
-  {
     "city": "Unterhausen",
     "date": "18.09.1525",
     "name": "Auberlin Re\u00df",
@@ -4815,18 +4685,8 @@
     "name": "Peter Sponn d.J.",
     "description": "wegen Teilnahme an Wildfreveln damit bestraft, 2 fl zu bezahlen und dem Forstmeister zu Urach seine B\u00fcchse abzuliefern, schw\u00f6rt U. und gelobt eidlich, sein Leben lang kein Waidwerk mehr zu treiben und unerlaubt keine B\u00fcchse mehr zu tragen.",
     "location": {
-      "lat": 48.355645,
-      "lng": 9.334171999999999
-    }
-  },
-  {
-    "city": "Oberhausen",
-    "date": "18.09.1525",
-    "name": "Thomas Zimmerer",
-    "description": "mit einer Geldstrafe von 4 fl belegt, die er mit je 2 fl auf Lichtme\u00df (2. Febr.) und Ostern (1. Apr.) des folgenden Jahres bezahlen soll, weil er w\u00e4hrend der Bauerunruhen von Wilderern Wildbret angenommen hatte, schw\u00f6rt U. und gelobt eidlich, sein Leben lang kein Waidwerk mehr zu treiben und ohne obrigkeitliche Erlaubnis keine B\u00fcchse zu tragen.",
-    "location": {
-      "lat": 51.4878429,
-      "lng": 6.863308
+      "lat": 48.3305774,
+      "lng": 9.3325437
     }
   },
   {
@@ -4920,16 +4780,6 @@
     }
   },
   {
-    "city": "Oberhausen",
-    "date": "16.11.1525",
-    "name": "Jakob Reif (Ryff)",
-    "description": "wegen Wildfrevels zu einer Geldstrafe von 15 fl verurteilt, in Raten von je 5 fl an den Forstmeister zu Urach auf Fastnacht (13. Febr.), Osterabend (31. M\u00e4rz) und Michaelis (29. Sept.) 1526 zu bezahlen, schw\u00f6rt U. und verspricht eidlich, sein Leben lang ohne Erlaubnis der Obrigkeit kein Waidwerk mehr zu treiben. J. Reif hatte w\u00e4hrend des Bauernkriegs drei St\u00fcck Wild geschossen und auch von anderen Wildbret angenommen.",
-    "location": {
-      "lat": 51.4878429,
-      "lng": 6.863308
-    }
-  },
-  {
     "city": "Gruorn",
     "date": "27.11.1525",
     "name": "Jakob Frick",
@@ -4995,8 +4845,8 @@
     "name": "J\u00f6rg und Jakob Doscher",
     "description": "wegen \u00dcbertretung des Verbotes, B\u00fcchsen zu tragen, zu einer Strafe von 4 fl verurteilt, schw\u00f6ren U. und versprechen eidlich, in Zukunft ohne obrigkeitliche Erlaubnis keine B\u00fcchse mehr zu gebrauchen und kein Waidwerk mehr zu treiben.",
     "location": {
-      "lat": 48.5477147,
-      "lng": 9.2084479
+      "lat": 48.4202907,
+      "lng": 9.0316985
     }
   },
   {
@@ -5045,8 +4895,8 @@
     "name": "Jakob R\u00fcmelin",
     "description": "wegen Aufsp\u00fcrens von Wild w\u00e4hrend des Bauernkriegs zu einer Geldstrafe von 4 fl verurteilt, h\u00e4lftig auf Lichtme\u00df (2. Febr.) und Osterabend (31. M\u00e4rz) 1526 dem Forstmeister zu Urach zu bezahlen, schw\u00f6rt U. und verspricht eidlich, sein Leben lang ohne Erlaubnis der Obrigkeit kein Waidwerk mehr zu treiben und keine B\u00fcchse mehr zu tragen.",
     "location": {
-      "lat": 49.3767222,
-      "lng": 9.947956999999999
+      "lat": 48.046115,
+      "lng": 9.969222
     }
   },
   {
@@ -5585,8 +5435,8 @@
     "name": "Hensin D\u00fcrr",
     "description": "wegen aufr\u00fchrerischen Verhaltens wider die Obrigkeit w\u00e4hrend der Bauernunruhen zu Wildberg gef., jedoch auf F\u00fcrbitten seiner Freunde wieder freigel., gelobt eidlich, seinem Landesherrn eine Geldstrafe von 20 fl zu bezahlen, Wehr, Harnisch und Waffen unverz\u00fcglich der Obrigkeit abzuliefern und zeitlebens keine mehr zu tragen, auch offene Zechen und Gesellschaften zu meiden und sich keinerlei Emp\u00f6rung mehr anzuschlie\u00dfen, vielmehr seiner Obrigkeit allezeit in Wort und Tat gehorsam zu sein, und schw\u00f6rt U.",
     "location": {
-      "lat": 48.2031976,
-      "lng": 8.4461966
+      "lat": 49.1137819,
+      "lng": 10.2070646
     }
   },
   {
@@ -5625,8 +5475,8 @@
     "name": "Ludwig J\u00e4ger, Hans Brenz, Benedikt Lorch",
     "description": "wegen verbotenen Waidwerks im Zwiefalter Forst vom dortigen Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag wieder freigel., geloben eidlich, in Zukunft nicht mehr ohne Erlaubnis zu jagen, und schw\u00f6ren U. Bei Bruch dieser Verschreibung soll jeder der Herrschaft mit 20 fl verfallen sein.",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -5645,8 +5495,8 @@
     "name": "En\u00dflin Schmid, Jung Ludwig Stachnecker",
     "description": "wegen verbotenen Jagens im Zwiefalter Forst vom dortigen Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag wieder freigel., geloben eidlich, in Zukunft ohne Erlaubnis kein Waidwerk mehr zu treiben, und schw\u00f6ren U. Bei Bruch dieser Verschreibung sollen sie der Herrschaft mit 20 fl verfallen sein.",
     "location": {
-      "lat": 48.3896346,
-      "lng": 9.1838418
+      "lat": 48.3889412,
+      "lng": 9.1822755
     }
   },
   {
@@ -5655,8 +5505,8 @@
     "name": "Martin Stachnecker",
     "description": "wegen verbotenen Jagens im Zwiefalter Forst vom dortigen Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag wieder freigel., gelobt eidlich, in Zukunft ohne Erlaubnis kein Waidwerk mehr zu treiben, und schw\u00f6rt U.",
     "location": {
-      "lat": 48.3871631,
-      "lng": 9.2905038
+      "lat": 48.3865767,
+      "lng": 9.295657799999999
     }
   },
   {
@@ -5665,8 +5515,8 @@
     "name": "Lutz Strubinger, J\u00f6rg Ruckwid",
     "description": "wegen verbotenen Jagens im Zwiefalter Forst vom dortigen Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag wieder freigel., geloben eidlich, ohne Erlaubnis zeitlebens im Zwiefalter Forst kein Waidwerk mehr zu treiben, und schw\u00f6ren U. Bei Bruch dieser Verschreibung soll jeder der Herrschaft mit 20 fl verfallen sein.",
     "location": {
-      "lat": 48.3896346,
-      "lng": 9.1838418
+      "lat": 48.3889412,
+      "lng": 9.1822755
     }
   },
   {
@@ -5675,8 +5525,8 @@
     "name": "Michel Zimmermann",
     "description": "wegen verbotenen Jagens im Zwiefalter Forst vom dortigen Forstmeister festgenommen, jedoch auf Vertrag wieder freigel., gelobt eidlich, ohne Erlaubnis zeitlebens kein Waidwerk mehr zu treiben, und schw\u00f6rt U",
     "location": {
-      "lat": 48.35005229999999,
-      "lng": 9.1956428
+      "lat": 48.3896346,
+      "lng": 9.1838418
     }
   },
   {
@@ -5695,8 +5545,8 @@
     "name": "Peter Ruch",
     "description": "wegen verbotenen Jagens im Zwiefalter Forst vom dortigen Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag wieder freigel., gelobt eidlich, ohne Erlaubnis zeitlebens im Zwiefalter Forst kein Waidwerd mehr zu treiben, und schw\u00f6rt U",
     "location": {
-      "lat": 49.3767222,
-      "lng": 9.947956999999999
+      "lat": 48.046115,
+      "lng": 9.969222
     }
   },
   {
@@ -5725,8 +5575,8 @@
     "name": "Ludwig Wetzer",
     "description": "wegen verbotenen Jagens im Zwiefalter Forst vom Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag mit der Auflage wieder freigel., 4 fl zu entrichten, zahlbar in Raten von 2 fl auf Hilarius (13. Jan.) und Georgii (23. April), schw\u00f6rt U. und gelobt eidlich, zeitlebens im Zwiefalter Forst ohne Erlaubnis kein Waidwerk mehr zu treiben.",
     "location": {
-      "lat": 47.68592899999999,
-      "lng": 9.476413599999999
+      "lat": 48.202772,
+      "lng": 9.3362079
     }
   },
   {
@@ -5767,26 +5617,6 @@
     "location": {
       "lat": 51.3020791,
       "lng": 8.6327185
-    }
-  },
-  {
-    "city": "Geisingen",
-    "date": "13.11.1526",
-    "name": "Ludwig Riching",
-    "description": "wegen verbotenen Waidwerks im Zwiefalter Forst vom Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag mit der Auflage wieder freigel., 6 fl zu bezahlen, schw\u00f6rt U. und gelobt eidlich, ohne Erlaubnis zeitlebens dort nicht mehr zu jagen",
-    "location": {
-      "lat": 47.9230362,
-      "lng": 8.6489943
-    }
-  },
-  {
-    "city": "Geisingen",
-    "date": "13.11.1526",
-    "name": "Lutz Herter",
-    "description": "wegen verbotenen Waidwerks im Zwiefalter Forst vom Forstmeister Hans Schwaiger festgenommen, jedoch auf Vertrag mit der Auflage wieder freigel., 3 1/2 fl zu bezahlen, schw\u00f6rt U. und gelobt eidlich, ohne Erlaubnis zeitlebens dort nicht mehr zu jagen",
-    "location": {
-      "lat": 47.9230362,
-      "lng": 8.6489943
     }
   }
 ]
