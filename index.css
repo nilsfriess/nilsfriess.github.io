@@ -4,7 +4,7 @@
     border-radius: 100%;
     background: #ff1d58;
     position: absolute;
-    pointer-events: none;
+    cursor: pointer;
 }
 
 main {

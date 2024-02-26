@@ -1,23 +1,16 @@
-const data = [
-    {
-        title: "Asperg",
-        coords: {
-            x: 260,
-            y: 265
-        }
-    },
-    {
-        title: "Winterlingen",
-        coords: {
-            x: 160,
-            y: 520
-        }
-    }
-];
-
 let currSelection = "";
 
 let ufdata = [];
+
+const northWest = {
+    'lat': 49.910046,
+    'long': 7.226884
+};
+
+const southEast = {
+    'lat': 47.275870,
+    'long': 10.778297
+};
 
 function showData() {
     currSelection = currSelection.trim();
@@ -25,7 +18,7 @@ function showData() {
     document.querySelector('.uflist').innerHTML = '';
 
     for (let entry of ufdata) {
-        if(currSelection.length != 0 && !entry.city.includes(currSelection))
+        if (currSelection.length != 0 && !entry.city.includes(currSelection))
             continue;
 
         let htmlElem = document.createElement("div");
@@ -46,42 +39,44 @@ function showData() {
 }
 
 window.onload = function () {
-    const radius = 10;
+    const radius = 5;
 
-    for (let city of data) {
-        const citiesMapElem = document.querySelector("#citiesmap");
+    const image = document.querySelector('img');
+    const pixelsPerLat = image.height / (northWest.lat - southEast.lat);
+    const pixelsPerLong = image.width / (southEast.long - northWest.long);
 
-        let newAreaElem = document.createElement("area");
-        newAreaElem.title = city.title;
-        newAreaElem.coords = city.coords.x + "," + city.coords.y + "," + radius;
-        newAreaElem.href = "#"
-        newAreaElem.shape = "circle";
-
-        newAreaElem.addEventListener('click', () => {
-            // Open popup with city title
-            currSelection = city.title;
-            document.querySelector('#search').value = currSelection;
-            showData();
-        });
-
-        let createdElem = citiesMapElem.appendChild(newAreaElem);
-
-        // Insert circle
-        let newDot = document.createElement("div");
-        newDot.classList.add("circle");
-        newDot.style.width = `${2 * radius}px`;
-        newDot.style.height = `${2 * radius}px`;
-        newDot.style.left = parseInt(city.coords.x - radius) + "px";
-        newDot.style.top = parseInt(city.coords.y - radius) + "px";
-
-        document.querySelector("#dots").appendChild(newDot);
-    }
+    console.log(pixelsPerLong);
+    console.log(pixelsPerLat);
 
     fetch('/output.json')
         .then((response) => response.json())
         .then((data) => {
             ufdata = data;
             showData();
+
+            for (let city of data) {
+                if ((city.location.lat > northWest.lat || city.location.lat < southEast.lat) || (city.location.lng < northWest.long || city.location.lng > southEast.long))
+                     continue;
+
+                // Insert circle
+                let newDot = document.createElement("div");
+                newDot.classList.add("circle");
+                newDot.style.width = `${2 * radius}px`;
+                newDot.style.height = `${2 * radius}px`;
+
+                // Compute relative position within image
+                newDot.style.left = ((city.location.lng - northWest.long) * pixelsPerLong) + "px";
+                console.log(newDot.style.left);
+                newDot.style.top = (-1*(city.location.lat - northWest.lat) * pixelsPerLat) + "px";
+
+                newDot.addEventListener('click', () => {
+                    currSelection = city.city;
+                    document.querySelector('#search').value = currSelection;
+                    showData();
+                });
+
+                document.querySelector("#dots").appendChild(newDot);
+            }
         });
 
     document.querySelector('#search').addEventListener("input", (e) => {
