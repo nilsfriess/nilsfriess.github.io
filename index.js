@@ -25,7 +25,11 @@ function showData() {
         htmlElem.innerHTML = `
         <div class="mb-6 rounded overflow-hidden shadow-xl">
             <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">${entry.name}</div>
+            <div class="flex justify-between items-center">
+                <div class="font-bold text-xl mb-2">${entry.name}</div>
+                <div class="text-sm">${entry.date}</div>
+            </div>
+            <div class="text-sm text-gray-500">${entry.code}</div>
             <p class="text-gray-700 text-base">
                 ${entry.description}
             </p>
